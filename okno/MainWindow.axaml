@@ -9,10 +9,14 @@
         Height="400"
         WindowStartupLocation="CenterScreen"
         CanResize="False">
-    <TextBlock Text="Warsztat"
-               HorizontalAlignment="Center"
-               VerticalAlignment="Center"
-               FontSize="32"
-               FontWeight="Bold"
-               Foreground="#1B4F72"/>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Warsztat"
+                   HorizontalAlignment="Center"
+                   FontSize="32"
+                   FontWeight="Bold"
+                   Foreground="#1B4F72"/>
+        <TextBlock Text="Okno z szablonu Avalonia"
+                   HorizontalAlignment="Center"
+                   FontSize="16"/>
+    </StackPanel>
 </Window>

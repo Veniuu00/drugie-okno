@@ -7,5 +7,6 @@
         Title="okno">
     <TextBlock Text="Warsztat"
                HorizontalAlignment="Center"
-               VerticalAlignment="Center"/>
+               VerticalAlignment="Center"
+               FontSize="32"/>
 </Window>

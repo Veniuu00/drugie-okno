@@ -11,5 +11,6 @@
     <TextBlock Text="Warsztat"
                HorizontalAlignment="Center"
                VerticalAlignment="Center"
-               FontSize="32"/>
+               FontSize="32"
+               FontWeight="Bold"/>
 </Window>
